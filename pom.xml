@@ -10,14 +10,14 @@
 
     <groupId>org.jboss.set</groupId>
     <artifactId>jboss-eap8-alignment-verification</artifactId>
-    <version>1.0.0.Alpha1</version>
+    <version>1.0.0.Alpha2-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <scm>
         <connection>scm:git:git@github.com:jboss-set/jboss-eap8-alignment-verification.git</connection>
         <developerConnection>scm:git:git@github.com:jboss-set/jboss-eap8-alignment-verification.git</developerConnection>
         <url>https://github.com/jboss-set/jboss-eap8-alignment-verification</url>
-        <tag>1.0.0.Alpha1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
